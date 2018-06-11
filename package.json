@@ -1,0 +1,16 @@
+{
+  "name": "vimeo-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^3.1.0",
+    "dropbox": "^4.0.5",
+    "wget-improved": "^3.0.1"
+  }
+}
